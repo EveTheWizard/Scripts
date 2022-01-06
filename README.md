@@ -7,5 +7,7 @@ Check the rpm ranges of your fans before using, mine are 3000-6500
 Use:
 Make it executible by doing
 >chmod 755 fanspeed.sh
+
 Then simply execute it with the desired fanspeed where N is the desired fanspeed
+
 >./fanspeed.sh -s N 
